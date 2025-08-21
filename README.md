@@ -12,15 +12,15 @@ Built as part of the **AI Engineer Challenge**.
 | **Category**           | **Details**                                                                          |
 | ---------------------- | ------------------------------------------------------------------------------------ |
 | **Project Name**       | AI Scoring Server – DeFi Reputation (DEX)                                            |
-| **Tech Stack**         | Python 3.11+, FastAPI, Pydantic, Pandas, NumPy, Kafka (optional), MongoDB (optional) |
+| **Tech Stack**         | Python 3.11+, FastAPI, Pydantic, Pandas, NumPy, Kafka , MongoDB                      |
 | **Core Features**      | FastAPI microservice, AI scoring model, DEX feature engineering, Mock Kafka mode     |
 | **Input Format**       | Wallet JSON (transactions with swap/deposit/withdraw)                                |
 | **Output Format**      | JSON success (score + features) or failure (error message)                           |
 | **Score Range**        | 0 – 1000 (string, normalized)                                                        |
-| **Kafka Support**      | ✅ Real Kafka integration (if enabled) / Mock mode (local dev)                        |
+| **Kafka Support**      | ✅ Real Kafka integration (if enabled) / Mock mode (local dev)                       |
 | **Environment Config** | `.env` file with Kafka/Mongo settings                                                |
 | **Tests Provided**     | Local model test, Kafka mock test, End-to-end challenge validation script            |
-| **Status**             | ✅ Completed for AI Engineer Challenge                                                |
+| **Status**             | ✅ Completed for AI Engineer Challenge                                               |
 
 ---
 
