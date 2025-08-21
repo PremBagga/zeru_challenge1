@@ -1,0 +1,22 @@
+fastapi
+uvicorn
+pydantic
+pandas
+numpy
+httpx
+structlog
+python-dotenv
+kafka-python
+confluent-kafka
+pymongo
+
+# fastapi==0.115.0
+# uvicorn==0.30.6
+# pydantic==1.10.18
+# kafka-python==2.0.2
+# pymongo==4.8.0
+# pandas==2.2.2
+# numpy==1.26.4
+# structlog==24.4.0
+# python-dotenv==1.0.1
+# httpx==0.27.2
